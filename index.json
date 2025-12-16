@@ -1,0 +1,98 @@
+{
+    "status": true,
+    "message": "Version data loaded successfully.",
+    "version_id": "162",
+    "user_id": "4",
+    "abo_version": {
+        "version_id": "162",
+        "app_id": "76",
+        "version_name": "FB01",
+        "version_description": "",
+        "cm_version_module": "248",
+        "platform": "3",
+        "ai_modal_id": "cotester_client_SceZVZcE33tz4niliqupeXcY",
+        "script_type": "3",
+        "is_master": "1",
+        "xray_project_version": null,
+        "restore_id": "0",
+        "is_git_enabled": "1",
+        "git_restore_id": "0",
+        "is_delete": "0"
+    },
+    "app_id": "76",
+    "platform": "3",
+    "ab_applications": {
+        "app_id": "76",
+        "name": "AndroidTest",
+        "user_id": "4",
+        "os_type": "0",
+        "nob": "0",
+        "application_token": "324be5cb6e8abb968298df8ebf7c72d0",
+        "cm_version_id": "1,135,162",
+        "is_autoheal": "1",
+        "is_autoheal_autofixed": "0",
+        "is_testcase_retries": "0",
+        "testcase_retries_number": null,
+        "is_ai_autoheal": "0",
+        "is_ai_autoheal_autofixed": "0",
+        "jira_project_id": null,
+        "created_by": "5",
+        "project_restriction_type": "1",
+        "is_delete": "0",
+        "ai_modal_id": null,
+        "created": "2025-12-15 14:07:06",
+        "updated": "2025-12-15 14:07:06"
+    },
+    "abo_version_module": [
+        {
+            "version_module_id": "248",
+            "version_id": "162",
+            "parent_id": "0",
+            "module_name": "Facebook",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": null,
+            "is_updated": "1",
+            "is_complie": "0",
+            "server_ids": "",
+            "is_running": "0",
+            "is_delete": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "984",
+                    "user_id": "4",
+                    "app_id": "76",
+                    "version_id": "162",
+                    "version_module_id": "248",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "248",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "abo_version_maps": []
+                }
+            ]
+        }
+    ],
+    "abo_version_capabilities": [],
+    "abo_import_statement": [],
+    "abo_maven_dependency": [],
+    "abo_external_jar": [],
+    "abo_global_variable": [],
+    "ab_scheduler": []
+}
