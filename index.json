@@ -82,7 +82,19 @@
                     "updated_at": "2025-12-17 19:43:44",
                     "created_at": "2025-12-17 19:40:49",
                     "test_case_tags": [],
-                    "iterative_test_case": [],
+                    "iterative_test_case": {
+                        "id": "374",
+                        "user_id": "1",
+                        "tc_id": "1484",
+                        "json_url": "",
+                        "json_keys": null,
+                        "test_case": "[]",
+                        "type": "2",
+                        "api_url": "https://dev-ajay-testgrid.tiiny.site/tg-api.json",
+                        "api_keys": "testx1,testx2,testx3,testx4,testx5",
+                        "database_object": null,
+                        "database_keys": null
+                    },
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/31/82/1105/testcases/login.java"
                 }
             ],
