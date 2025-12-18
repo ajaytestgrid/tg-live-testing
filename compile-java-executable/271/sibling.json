@@ -1,0 +1,128 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_email1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "suggest_name": "emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "suggest_name": "emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "locators": "Xpath",
+                    "locators_val": "\/\/input[@id='email']",
+                    "suggest_name": "emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "locators": "Xpath",
+                    "locators_val": "\/\/html[1]\/body[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/form[1]\/div[1]\/div[1]\/input[1]",
+                    "suggest_name": "emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "suggest_name": "emailTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA3",
+                    "suggest_name": "emailTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": []
+        },
+        {
+            "testcase_element": "ele_pass1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "locators": "Xpath",
+                    "locators_val": "\/\/input[@id='pass']",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "locators": "Xpath",
+                    "locators_val": "\/\/html[1]\/body[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/form[1]\/div[1]\/div[2]\/div[1]\/input[1]",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "suggest_name": "passTGWEBCOMMA1"
+                },
+                {
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA4",
+                    "suggest_name": "passTGWEBCOMMA1"
+                }
+            ],
+            "iframe_and_shadow_root_data": []
+        }
+    ]
+}

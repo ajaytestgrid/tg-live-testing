@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_email1">
+    <element type="id">emailTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="css">input#emailTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='email']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[1]/input[1]</element>
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMA1</element>
+    <element type="tag">inputTGWEBCOMMA3</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/271/4243.png</element>
+  </locator>
+  <locator name="ele_pass1">
+    <element type="id">passTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="css">input#passTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/input[1]</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+    <element type="tag">inputTGWEBCOMMA4</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/271/4244.png</element>
+  </locator>
+</locators>

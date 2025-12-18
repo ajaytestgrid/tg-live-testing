@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_httpwwww3o191">
+    <element type="xpath">//body/div[@id='__next']/div/div/div/div/a[@aria-label='Go Home']/div/*[1]</element>
+    <element type="css">svg</element>
+    <element type="tag">svg</element>
+  </locator>
+  <locator name="ele_imageplace254">
+    <element type="xpath">//div[@id='slot_1']//div//div//div//div//div//div//div//div//div//div//div//div//div//img[@alt='Image Placeholder']</element>
+    <element type="css">img[alt="Image Placeholder"]</element>
+    <element type="tag">img</element>
+  </locator>
+  <locator name="ele_imageplace420">
+    <element type="xpath">div#slot_10000 &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="css">div#slot_10000 &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">img</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4228.png</element>
+  </locator>
+  <locator name="ele_imageplace550">
+    <element type="xpath">//body/div[@id='__next']/div/div/div/div/div/div/div/div[@id='slot_10000']/div[@arrangement='ADJACENT']/div/div[@arrangement='STACK']/div/div/div/div/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]</element>
+    <element type="css">div#slot_10000 &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(7) &gt; div &gt; div &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">img</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4229.png</element>
+  </locator>
+  <locator name="ele_imageplace586">
+    <element type="xpath">//body/div[@id='__next']/div/div/div/div/div/div/div/div[@id='slot_10000']/div[@arrangement='ADJACENT']/div/div[@arrangement='STACK']/div/div/div/div/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]</element>
+    <element type="css">div.css-175oi2r.r-1jkafct.r-rs99b7.r-13awgt0.r-5oul0u.r-11wrixw.r-61z16t.r-knv0ih.r-l4nmg1.r-vmopo1.r-1x463ub.r-1phboty &gt; div.css-175oi2r &gt; img[alt="Image Placeholder"]</element>
+    <element type="tag">img</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4230.png</element>
+  </locator>
+  <locator name="ele_m864">
+    <element type="xpath">//div[@arrangement='STACK']//div//div//div//div//div//div//div//div//div//div//div//div//div//div//div[@dir='auto'][normalize-space()='M']</element>
+    <element type="css">div#slot_10000 &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">css-146c3p1 r-dnmrzs r-1udh08x r-1udbk01 r-3s2u2q r-1iln25a r-1kihuf0 r-1vgyyaa r-1b43r93 r-1rsjblm r-tuq35u r-q4m81j r-9iso6 r-op4f77 r-14lw9otTGWEBCOMMA54</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4231.png</element>
+  </locator>
+  <locator name="ele_l591">
+    <element type="xpath">//body/div[@id='__next']/div/div/div/div/div/div/div/div[@id='slot_10000']/div[@arrangement='ADJACENT']/div/div[@arrangement='STACK']/div/div/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="css">div#slot_10000 &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">css-175oi2r r-1awozwy r-z2wwpe r-rs99b7 r-13awgt0 r-1777fci r-5oul0u r-1jkjb r-knv0ih r-15ysp7h r-s8bhmr r-1559e4e r-is05cd r-1kv57cf r-1phbotyTGWEBCOMMA253</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4232.png</element>
+  </locator>
+  <locator name="ele_readmore572">
+    <element type="xpath">//div[contains(text(),'Read More')]</element>
+    <element type="css">div.css-146c3p1.r-12gph82.r-5kkj8d.r-1tcj4yv.r-1vgyyaa.r-ubezar.r-d23pfw.r-13qz1uu</element>
+    <element type="tag">div</element>
+    <element type="class">css-146c3p1 r-12gph82 r-5kkj8d r-1tcj4yv r-1vgyyaa r-ubezar r-d23pfw r-13qz1uuTGWEBCOMMA112</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4233.png</element>
+  </locator>
+  <locator name="ele_addtocart634">
+    <element type="xpath">//div[contains(text(),'Add to cart')]</element>
+    <element type="css">div.css-175oi2r.r-13awgt0.r-18u37iz &gt; div &gt; div &gt; div.css-175oi2r &gt; div.css-146c3p1</element>
+    <element type="tag">div</element>
+    <element type="class">css-146c3p1TGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4234.png</element>
+  </locator>
+  <locator name="ele_qty697">
+    <element type="tag">divTGWEBCOMMATagTGWEBCOMMA</element>
+    <element type="class">css-175oi2r r-13awgt0 r-18u37iz r-15ysp7h r-1awozwy r-1777fciTGWEBCOMMA43</element>
+    <element type="css">div#slot_10000 &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4235.png</element>
+  </locator>
+  <locator name="ele_div044">
+    <element type="tag">divTGWEBCOMMATagTGWEBCOMMA</element>
+    <element type="class">css-146c3p1 r-op4f77 r-1et8rh5 r-1b43r93TGWEBCOMMA29</element>
+    <element type="xpath">//div[@dir='auto'][normalize-space()='3']</element>
+    <element type="css">html &gt; body &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4236.png</element>
+  </locator>
+  <locator name="ele_placeorder800">
+    <element type="tag">divTGWEBCOMMATagTGWEBCOMMA</element>
+    <element type="class">css-175oi2r r-1awozwy r-1rl26hh r-1jkafct r-18u37iz r-eu3ka r-1777fci r-1kneemvTGWEBCOMMA104</element>
+    <element type="xpath">//body/div[@id='__next']/div/div/div/div/div/div/div/div[@id='slot_10000']/div[@arrangement='ADJACENT']/div/div[@arrangement='STACK']/div/div[@arrangement='STACK']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="xpath">//div[@id='slot_10000']/div/div[2]/div/div[2]/div/div[2]/div/div/div/div/div</element>
+    <element type="css">div.css-175oi2r.r-1awozwy.r-1rl26hh.r-1jkafct.r-18u37iz.r-eu3ka.r-1777fci.r-1kneemv</element>
+    <element type="xpath">//div[2]/div/div[2]/div/div[2]/div/div/div/div/div</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4237.png</element>
+  </locator>
+  <locator name="ele_iframe035">
+    <element type="xpath">//div[@role='dialog']//div//div//div//iframe</element>
+    <element type="css">iframe.sc-c7361652-2.bfTpKu</element>
+    <element type="tag">iframe</element>
+    <element type="class">sc-c7361652-2 bfTpKuTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4238.png</element>
+  </locator>
+  <locator name="ele_welcomeent947">
+    <element type="xpath">//body/div[@id='__next']/div/div[2]/div[1]/div[1]/div[1]</element>
+    <element type="css">div.css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx.r-2eszeu</element>
+    <element type="tag">div</element>
+    <element type="class">css-175oi2r r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-agouwx r-2eszeuTGWEBCOMMA17</element>
+  </locator>
+  <locator name="ele_logingetac117">
+    <element type="xpath">//body/div/div/div/div[@role='dialog']/div/div[1]</element>
+    <element type="css">div.css-175oi2r.r-1awozwy.r-drfeu3.r-18u37iz.r-zh076v.r-1777fci.r-7h7f8p</element>
+    <element type="tag">div</element>
+    <element type="class">css-175oi2r r-1awozwy r-drfeu3 r-18u37iz r-zh076v r-1777fci r-7h7f8pTGWEBCOMMA128</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4240.png</element>
+  </locator>
+  <locator name="ele_qty358">
+    <element type="xpath">//body/div[@id='__next']/div/div/div/div/div/div/div/div[@id='slot_10000']/div[@arrangement='ADJACENT']/div/div[@arrangement='STACK']/div/div[@arrangement='STACK']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="css">div.css-175oi2r.r-1awozwy.r-1kv57cf.r-1jkafct.r-rs99b7.r-18u37iz.r-mabqd8.r-1777fci.r-88pszg.r-1m4drjs.r-b8lwoo.r-136ojw6</element>
+    <element type="tag">div</element>
+    <element type="class">css-175oi2r r-1awozwy r-1kv57cf r-1jkafct r-rs99b7 r-18u37iz r-mabqd8 r-1777fci r-88pszg r-1m4drjs r-b8lwoo r-136ojw6TGWEBCOMMA40</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4241.png</element>
+  </locator>
+  <locator name="ele_div929">
+    <element type="xpath">//body/div/div/div/div[@role='dialog']/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="css">html &gt; body &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">css-175oi2r r-1awozwy r-18u37iz r-mabqd8 r-1777fci r-1glkqn6TGWEBCOMMA140</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/270/4242.png</element>
+  </locator>
+</locators>

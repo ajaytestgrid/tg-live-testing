@@ -1,0 +1,650 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 28,
+                    "d_y": 12,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 28,
+                    "d_y": 12,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 730,
+                    "d_w": 1360,
+                    "d_x": 0,
+                    "d_y": 231,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 730,
+                    "d_w": 1360,
+                    "d_x": 0,
+                    "d_y": 231,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 328,
+                    "d_w": 273,
+                    "d_x": 514,
+                    "d_y": 529,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 328,
+                    "d_w": 273,
+                    "d_x": 514,
+                    "d_y": 529,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 60,
+                    "d_w": 60,
+                    "d_x": 1003,
+                    "d_y": 321,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 60,
+                    "d_w": 60,
+                    "d_x": 1003,
+                    "d_y": 321,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 60,
+                    "d_w": 60,
+                    "d_x": 1003,
+                    "d_y": 321,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 60,
+                    "d_w": 60,
+                    "d_x": 1003,
+                    "d_y": 321,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 21,
+                    "d_x": 665,
+                    "d_y": 481,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 21,
+                    "d_x": 665,
+                    "d_y": 481,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 56,
+                    "d_x": 712,
+                    "d_y": 480,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 56,
+                    "d_x": 712,
+                    "d_y": 480,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 69,
+                    "d_w": 759,
+                    "d_x": 583,
+                    "d_y": 166,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 69,
+                    "d_w": 759,
+                    "d_x": 583,
+                    "d_y": 166,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 75,
+                    "d_x": 106,
+                    "d_y": 398,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 75,
+                    "d_x": 106,
+                    "d_y": 398,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 80,
+                    "d_x": 800,
+                    "d_y": 220,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 80,
+                    "d_x": 800,
+                    "d_y": 220,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 17,
+                    "d_w": 13,
+                    "d_x": 835,
+                    "d_y": 260,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 17,
+                    "d_w": 13,
+                    "d_x": 835,
+                    "d_y": 260,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 168,
+                    "d_x": 1183,
+                    "d_y": 389,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 168,
+                    "d_x": 1183,
+                    "d_y": 389,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 528,
+                    "d_w": 402,
+                    "d_x": 626,
+                    "d_y": 166,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 528,
+                    "d_w": 402,
+                    "d_x": 626,
+                    "d_y": 166,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 861,
+                    "d_w": 1360,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 861,
+                    "d_w": 1360,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 100,
+                    "d_x": 790,
+                    "d_y": 220,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 100,
+                    "d_x": 790,
+                    "d_y": 220,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 80,
+                    "d_x": 802,
+                    "d_y": 285,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_test00ds",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "dsdsd",
+                    "locator_id": "3",
+                    "d_h": 32,
+                    "d_w": 80,
+                    "d_x": 802,
+                    "d_y": 285,
+                    "suggest_name": "test00ds"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        }
+    ]
+}
