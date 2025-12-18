@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_q1">
+    <element type="tag">q1TGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1241/158029.png</element>
+  </locator>
+  <locator name="ele_q2">
+    <element type="id">q2TGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1241/158030.png</element>
+  </locator>
+  <locator name="ele_qq">
+    <element type="id">qqTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
+</locators>
