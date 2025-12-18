@@ -10,5 +10,9 @@
   </locator>
   <locator name="ele_dew">
     <element type="id">dededTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1242/158035.png</element>
+  </locator>
+  <locator name="ele_rrr">
+    <element type="id">rrrrTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
 </locators>
