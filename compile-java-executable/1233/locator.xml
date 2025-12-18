@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_emailaddre934">
+    <element type="xpath">//input[@id='email']</element>
+    <element type="id">emailTGWEBCOMMA1</element>
+    <element type="css">#email</element>
+    <element type="tag">input</element>
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1233/158011.png</element>
+  </locator>
+  <locator name="ele_password962">
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="id">passTGWEBCOMMA1</element>
+    <element type="css">#pass</element>
+    <element type="tag">input</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1233/158012.png</element>
+  </locator>
+</locators>
