@@ -10,5 +10,9 @@
   </locator>
   <locator name="ele_qq">
     <element type="id">qqTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1241/158031.png</element>
+  </locator>
+  <locator name="ele_dssds">
+    <element type="tag">dsadsaTGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
 </locators>
