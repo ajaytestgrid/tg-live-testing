@@ -483,15 +483,15 @@
             "parent_id": "0",
             "module_name": "Facebook9",
             "module_description": "",
-            "count_resource": "0",
+            "count_resource": "1",
             "cm_resource_pages": "916,917",
-            "cm_default_resource": "",
+            "cm_default_resource": "158034",
             "cm_test_function": "",
             "cm_test_case": "",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-18 18:08:04",
+            "view_updated_date_time": "2025-12-18 18:09:14",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -509,17 +509,61 @@
                     "version_module_id": "1242",
                     "description": "",
                     "action_process": "add_version_module"
+                },
+                {
+                    "id": "5348",
+                    "user_id": "1",
+                    "app_id": "31",
+                    "version_id": "86",
+                    "version_module_id": "1242",
+                    "description": "",
+                    "action_process": "add_element"
                 }
             ],
             "abo_version_pages": [
                 {
                     "version_page_id": "916",
                     "version_module_id": "1242",
-                    "cm_resource": "",
+                    "cm_resource": "158033",
                     "page_name": "e1",
                     "created": "2025-12-18 18:08:19",
                     "updated": "2025-12-18 18:08:19",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "158033",
+                            "version_page_id": "916",
+                            "page_name": "e1",
+                            "version_module_id": "1242",
+                            "element_name": "ele_e1",
+                            "element_display_name": null,
+                            "element_image_url": null,
+                            "element_path_rid": "e1TGWEBCOMMATagTGWEBCOMMA0",
+                            "autoheal_elements": "",
+                            "shadow_data": null,
+                            "sibling_selector": null,
+                            "tg_text": null,
+                            "iframe_and_shadow_root_data": null,
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "8",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "830.12",
+                            "d_y": "246.79",
+                            "d_w": "72.92",
+                            "d_h": "143.03",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1242/158033.png"
+                        }
+                    ]
                 },
                 {
                     "version_page_id": "917",
@@ -533,9 +577,44 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "1242",
-                    "cm_resource": "",
+                    "cm_resource": "158034",
                     "page_name": "Manually Added Resources ",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "158034",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "1242",
+                            "element_name": "ele_eee",
+                            "element_display_name": "eee",
+                            "element_image_url": null,
+                            "element_path_rid": "eeeTGWEBCOMMATagTGWEBCOMMA0",
+                            "autoheal_elements": "",
+                            "shadow_data": null,
+                            "sibling_selector": null,
+                            "tg_text": null,
+                            "iframe_and_shadow_root_data": null,
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "undefined",
+                            "element_displayname": "",
+                            "element_index": "undefined",
+                            "element_parent_element": "undefined",
+                            "element_path_rid_type": "8",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "0",
+                            "d_y": "0",
+                            "d_w": "0",
+                            "d_h": "0",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1242/158034.png"
+                        }
+                    ]
                 }
             ]
         }

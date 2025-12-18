@@ -1,0 +1,83 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_e1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "e1TGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 143,
+                    "d_w": 72,
+                    "d_x": 830,
+                    "d_y": 246,
+                    "suggest_name": "e1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.204/s/ele-imgs/1242/158033.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_e1",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "e1TGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 143,
+                    "d_w": 72,
+                    "d_x": 830,
+                    "d_y": 246,
+                    "suggest_name": "e1"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.204/s/ele-imgs/1242/158033.png",
+            "element_type": "tag",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_eee",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "eeeTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "eee"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_eee",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "eeeTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "eee"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "tag"
+        }
+    ]
+}
