@@ -15,4 +15,7 @@
   <locator name="ele_rrr">
     <element type="id">rrrrTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_dsdsd">
+    <element type="id">dsdsdsTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
