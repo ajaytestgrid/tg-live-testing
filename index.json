@@ -484,7 +484,7 @@
             "module_name": "Facebook9",
             "module_description": "",
             "count_resource": "0",
-            "cm_resource_pages": "916",
+            "cm_resource_pages": "916,917",
             "cm_default_resource": "",
             "cm_test_function": "",
             "cm_test_case": "",
@@ -519,6 +519,15 @@
                     "page_name": "e1",
                     "created": "2025-12-18 18:08:19",
                     "updated": "2025-12-18 18:08:19",
+                    "abo_version_maps": []
+                },
+                {
+                    "version_page_id": "917",
+                    "version_module_id": "1242",
+                    "cm_resource": "",
+                    "page_name": "e2",
+                    "created": "2025-12-18 18:08:33",
+                    "updated": "2025-12-18 18:08:33",
                     "abo_version_maps": []
                 },
                 {
