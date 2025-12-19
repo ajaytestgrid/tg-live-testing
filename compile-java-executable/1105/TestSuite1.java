@@ -1,3 +1,3 @@
 @Listeners(TestListener.class)
-public class Demo {
+public class TestSuite1 {
 }
