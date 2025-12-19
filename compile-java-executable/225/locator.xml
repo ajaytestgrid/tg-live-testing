@@ -33,4 +33,7 @@
   <locator name="ele_elecontinue1">
     <element type="web_partiallinktext">dwTGWEBCOMMAPartialLinkTextTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_elecontinue1s">
+    <element type="web_tag">svgTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
 </locators>
