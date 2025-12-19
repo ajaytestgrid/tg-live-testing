@@ -21,5 +21,9 @@
   </locator>
   <locator name="ele_dsds">
     <element type="class">dasdaTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1233/158040.png</element>
+  </locator>
+  <locator name="ele_dsadsa">
+    <element type="tag">202TGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
 </locators>
