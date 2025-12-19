@@ -24,4 +24,7 @@
   <locator name="ele_ShopNowMensTShirtsElement">
     <element type="web_class">_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51syTGWEBCOMMACssClassTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_Emailorphonenumber5114148095284">
+    <element type="web_xpath">wfcwf</element>
+  </locator>
 </locators>
