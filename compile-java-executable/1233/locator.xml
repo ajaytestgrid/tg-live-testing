@@ -19,4 +19,7 @@
   <locator name="ele_dasdsa">
     <element type="id">dsadsadsadTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_dsds">
+    <element type="class">dasdaTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
 </locators>
