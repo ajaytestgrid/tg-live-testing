@@ -39,4 +39,7 @@
   <locator name="ele_harshkansagraewe">
     <element type="web_class">_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51syTGWEBCOMMACssClassTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_elecontinue1szd">
+    <element type="web_tag">inputTGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
 </locators>
