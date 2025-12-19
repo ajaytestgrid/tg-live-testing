@@ -26,4 +26,7 @@
   <locator name="ele_dsadsa">
     <element type="tag">202TGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_test0dsds">
+    <element type="id">sadTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
