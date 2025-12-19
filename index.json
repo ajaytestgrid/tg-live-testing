@@ -140,15 +140,6 @@
             ],
             "abo_version_pages": [
                 {
-                    "version_page_id": "428",
-                    "version_module_id": "399",
-                    "cm_resource": "",
-                    "page_name": "Test20",
-                    "created": "2025-12-19 20:42:32",
-                    "updated": "2025-12-19 20:42:32",
-                    "abo_version_maps": []
-                },
-                {
                     "version_page_id": 0,
                     "version_module_id": "399",
                     "cm_resource": "",
