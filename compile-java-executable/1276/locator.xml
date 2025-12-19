@@ -3,6 +3,9 @@
   <locator name="ele_e1">
     <element type="tag">e1TGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_e1">
+    <element type="tag">e1TGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
   <locator name="ele_eee">
     <element type="tag">eeeTGWEBCOMMATagTGWEBCOMMA0</element>
   </locator>
