@@ -9,4 +9,7 @@
   <locator name="ele_currentcol799">
     <element type="web_partiallinktext">dwTGWEBCOMMAPartialLinkTextTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_Bhagat">
+    <element type="web_id">emailTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
