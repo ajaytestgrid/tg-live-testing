@@ -16,4 +16,7 @@
     <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/1233/158012.png</element>
   </locator>
+  <locator name="ele_dasdsa">
+    <element type="id">dsadsadsadTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
