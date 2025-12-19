@@ -27,4 +27,7 @@
   <locator name="ele_Emailorphonenumber5114148095284">
     <element type="web_xpath">wfcwf</element>
   </locator>
+  <locator name="ele_Emailorphonenumber5114148095284fd">
+    <element type="xpath">(//android.view.ViewGroup[@content-desc='com.android.chrome:id/location_bar_status_icon'])[1]</element>
+  </locator>
 </locators>
