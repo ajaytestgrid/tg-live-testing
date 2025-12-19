@@ -15,4 +15,7 @@
   <locator name="ele_currentcol799q">
     <element type="web_partiallinktext">dwTGWEBCOMMAPartialLinkTextTGWEBCOMMA0</element>
   </locator>
+  <locator name="ele_harshkansagra">
+    <element type="web_id">u_0_0_cNTGWEBCOMMAIdTGWEBCOMMA0</element>
+  </locator>
 </locators>
