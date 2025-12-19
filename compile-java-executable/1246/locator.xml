@@ -6,7 +6,6 @@
     <element type="css">#email</element>
     <element type="tag">input</element>
     <element type="class">inputtext _55r1 _6luyTGWEBCOMMA1</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/1233/158011.png</element>
   </locator>
   <locator name="ele_password962">
     <element type="xpath">//input[@id='pass']</element>
@@ -14,14 +13,12 @@
     <element type="css">#pass</element>
     <element type="tag">input</element>
     <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/1233/158012.png</element>
   </locator>
   <locator name="ele_dasdsa">
     <element type="id">dsadsadsadTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
   <locator name="ele_dsds">
     <element type="class">dasdaTGWEBCOMMACssClassTGWEBCOMMA0</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/1233/158040.png</element>
   </locator>
   <locator name="ele_dsadsa">
     <element type="tag">202TGWEBCOMMATagTGWEBCOMMA0</element>

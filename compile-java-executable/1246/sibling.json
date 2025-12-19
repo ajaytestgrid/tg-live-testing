@@ -71,7 +71,6 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1233/158011.png",
             "element_type": "xpath"
         },
         {
@@ -145,82 +144,6 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1233/158011.png",
-            "element_type": "xpath",
-            "image_url": ""
-        },
-        {
-            "testcase_element": "ele_password962",
-            "tg_text": "",
-            "sibling_selector": "",
-            "locator": [
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//input[@id='pass']",
-                    "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795,
-                    "d_y": 227,
-                    "suggest_name": "password962"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//div[@id='passContainer']/input",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password962"
-                },
-                {
-                    "locators": "id",
-                    "locators_val": "passTGWEBCOMMA1",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password962"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "#pass",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password962"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//div[2]/div/input",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password962"
-                },
-                {
-                    "locators": "Tag",
-                    "locators_val": "input",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password962"
-                },
-                {
-                    "locators": "class",
-                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password962"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1233/158012.png",
             "element_type": "xpath"
         },
         {
@@ -294,9 +217,80 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1233/158012.png",
-            "element_type": "xpath",
-            "image_url": ""
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password962",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password962"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password962"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password962"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password962"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password962"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "input",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password962"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password962"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
         },
         {
             "testcase_element": "ele_dasdsa",
@@ -353,7 +347,6 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1233/158040.png",
             "element_type": "class"
         },
         {
@@ -373,9 +366,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1233/158040.png",
-            "element_type": "class",
-            "image_url": ""
+            "element_type": "class"
         },
         {
             "testcase_element": "ele_dsadsa",

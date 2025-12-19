@@ -2,15 +2,12 @@
 <locators>
   <locator name="ele_e1">
     <element type="tag">e1TGWEBCOMMATagTGWEBCOMMA0</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/1242/158033.png</element>
   </locator>
   <locator name="ele_eee">
     <element type="tag">eeeTGWEBCOMMATagTGWEBCOMMA0</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/1242/158034.png</element>
   </locator>
   <locator name="ele_dew">
     <element type="id">dededTGWEBCOMMAIdTGWEBCOMMA0</element>
-    <element type="image">http://192.168.88.204/s/ele-imgs/1242/158035.png</element>
   </locator>
   <locator name="ele_rrr">
     <element type="id">rrrrTGWEBCOMMAIdTGWEBCOMMA0</element>
