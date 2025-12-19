@@ -58,7 +58,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-19 20:54:21",
+            "view_updated_date_time": "2025-12-19 23:35:52",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -140,53 +140,19 @@
             ],
             "abo_version_pages": [
                 {
-                    "version_page_id": "431",
+                    "version_page_id": "432",
                     "version_module_id": "401",
-                    "cm_resource": "8222,8223",
-                    "page_name": "Test20g",
-                    "created": "2025-12-19 20:49:48",
-                    "updated": "2025-12-19 20:49:48",
+                    "cm_resource": "8224",
+                    "page_name": "Test2dd",
+                    "created": "2025-12-19 20:55:30",
+                    "updated": "2025-12-19 20:55:30",
                     "abo_version_maps": [
                         {
-                            "maps_id": "8222",
-                            "version_page_id": "431",
-                            "page_name": "Test20g",
+                            "maps_id": "8224",
+                            "version_page_id": "432",
+                            "page_name": "Test2dd",
                             "version_module_id": "401",
-                            "element_name": "ele_Emailorphonenumber5114148095284sd",
-                            "element_display_name": null,
-                            "element_image_url": null,
-                            "element_path_rid": "emailTGWEBCOMMAIdTGWEBCOMMA0",
-                            "autoheal_elements": "",
-                            "shadow_data": null,
-                            "sibling_selector": null,
-                            "tg_text": null,
-                            "iframe_and_shadow_root_data": null,
-                            "is_iframe_and_shadow_root": "false",
-                            "only_iframe_data": "false",
-                            "only_shadow_root_data": "false",
-                            "web_context_element": "1",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "7",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "51.09",
-                            "d_y": "25.54",
-                            "d_w": "124.38",
-                            "d_h": "18.88",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/401/8222.png"
-                        },
-                        {
-                            "maps_id": "8223",
-                            "version_page_id": "431",
-                            "page_name": "Test20g",
-                            "version_module_id": "401",
-                            "element_name": "ele_currentcol799dgv",
+                            "element_name": "ele_elecontinue1s",
                             "element_display_name": null,
                             "element_image_url": null,
                             "element_path_rid": "_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51syTGWEBCOMMACssClassTGWEBCOMMA0",
@@ -206,32 +172,25 @@
                             "element_parent_element": "",
                             "element_path_rid_type": "6",
                             "element_path_rid_ios_type": "",
-                            "d_x": "28.88",
-                            "d_y": "115.5",
-                            "d_w": "286.53",
-                            "d_h": "67.75",
+                            "d_x": "27.76",
+                            "d_y": "154.37",
+                            "d_w": "169.92",
+                            "d_h": "36.65",
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/401/8223.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/401/8224.png"
                         }
-                    ]
-                },
-                {
-                    "version_page_id": "432",
-                    "version_module_id": "401",
-                    "cm_resource": "",
-                    "page_name": "Test2dd",
-                    "created": "2025-12-19 20:55:30",
-                    "updated": "2025-12-19 20:55:30",
-                    "abo_version_maps": []
+                    ],
+                    "image_url": ""
                 },
                 {
                     "version_page_id": 0,
                     "version_module_id": "401",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
-                    "abo_version_maps": []
+                    "abo_version_maps": [],
+                    "image_url": ""
                 }
             ]
         }
