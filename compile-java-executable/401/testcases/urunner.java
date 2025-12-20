@@ -13,18 +13,15 @@ import org.openqa.selenium.*;
 import io.testgrid.enums.Alert;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
+import org.testng.annotations.Test;
 
-@Listeners(TestListener.class)
-public class TestSuite1 {
+@Listeners(TestListener.class);
+public class urunner {
 
-    @Test(retryAnalyzer = RetryFailedTestCases.class)
-    public void urunner() {
-        tg.openDevice();
-        tg.wait(1);
-        tg.close();
-    }
-
-    public static void test1() {
-        tg.wait(1);
-    }
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void urunner() {
+		tg.openDevice();
+		tg.wait(1);
+		tg.close();
+	}
 }
