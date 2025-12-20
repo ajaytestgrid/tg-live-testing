@@ -58,7 +58,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-19 23:35:52",
+            "view_updated_date_time": "2025-12-20 08:57:57",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -144,6 +144,8 @@
                     "version_module_id": "401",
                     "cm_resource": "8224",
                     "page_name": "Test2dd",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/401/main_432.png",
+                    "git_restore_page_id": "0",
                     "created": "2025-12-19 20:55:30",
                     "updated": "2025-12-19 20:55:30",
                     "abo_version_maps": [
@@ -181,23 +183,36 @@
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/401/8224.png"
                         }
-                    ],
-                    "image_url": ""
+                    ]
                 },
                 {
                     "version_page_id": 0,
                     "version_module_id": "401",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
-                    "abo_version_maps": [],
-                    "image_url": ""
+                    "image_url": "",
+                    "abo_version_maps": []
                 }
             ]
         }
     ],
     "abo_version_capabilities": [],
     "abo_import_statement": [],
-    "abo_maven_dependency": [],
+    "abo_maven_dependency": [
+        {
+            "maven_id": "104",
+            "user_id": "1",
+            "app_id": "80",
+            "version_id": "140",
+            "maven_title": "mongodb-driver-core",
+            "group_id": "org.mongodb",
+            "artifact_id": "mongodb-driver-core",
+            "version": "5.1.1",
+            "maven_dependency": "<dependency>\r\n      <groupId>org.mongodb</groupId>\r\n      <artifactId>mongodb-driver-core</artifactId>\r\n      <version>5.1.1</version>\r\n    </dependency>",
+            "created": "2025-12-20 08:59:00",
+            "updated": "2025-12-20 08:59:00"
+        }
+    ],
     "abo_external_jar": [],
     "abo_global_variable": [],
     "ab_scheduler": []
