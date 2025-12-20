@@ -71,7 +71,6 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1105/143708.png",
             "element_type": "xpath"
         },
         {
@@ -145,82 +144,6 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1105/143708.png",
-            "element_type": "xpath",
-            "image_url": ""
-        },
-        {
-            "testcase_element": "ele_login553",
-            "tg_text": "",
-            "sibling_selector": "",
-            "locator": [
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//button[@id='u_0_5_QA']",
-                    "locator_id": "3",
-                    "d_h": 48,
-                    "d_w": 364,
-                    "d_x": 778,
-                    "d_y": 280,
-                    "suggest_name": "login553"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//form[@id='u_0_2_DY']/div[2]/button",
-                    "d_h": 48,
-                    "d_w": 364,
-                    "d_x": 778.5,
-                    "d_y": 280.078125,
-                    "suggest_name": "login553"
-                },
-                {
-                    "locators": "id",
-                    "locators_val": "u_0_5_QATGWEBCOMMA1",
-                    "d_h": 48,
-                    "d_w": 364,
-                    "d_x": 778.5,
-                    "d_y": 280.078125,
-                    "suggest_name": "login553"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "#u_0_5_QA",
-                    "d_h": 48,
-                    "d_w": 364,
-                    "d_x": 778.5,
-                    "d_y": 280.078125,
-                    "suggest_name": "login553"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//button",
-                    "d_h": 48,
-                    "d_w": 364,
-                    "d_x": 778.5,
-                    "d_y": 280.078125,
-                    "suggest_name": "login553"
-                },
-                {
-                    "locators": "Tag",
-                    "locators_val": "button",
-                    "d_h": 48,
-                    "d_w": 364,
-                    "d_x": 778.5,
-                    "d_y": 280.078125,
-                    "suggest_name": "login553"
-                },
-                {
-                    "locators": "class",
-                    "locators_val": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1",
-                    "d_h": 48,
-                    "d_w": 364,
-                    "d_x": 778.5,
-                    "d_y": 280.078125,
-                    "suggest_name": "login553"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1105/143709.png",
             "element_type": "xpath"
         },
         {
@@ -294,82 +217,79 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1105/143709.png",
-            "element_type": "xpath",
-            "image_url": ""
+            "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_password181",
+            "testcase_element": "ele_login553",
             "tg_text": "",
             "sibling_selector": "",
             "locator": [
                 {
                     "locators": "Xpath",
-                    "locators_val": "//input[@id='pass']",
+                    "locators_val": "//button[@id='u_0_5_QA']",
                     "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795,
-                    "d_y": 227,
-                    "suggest_name": "password181"
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 280,
+                    "suggest_name": "login553"
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//div[@id='passContainer']/input",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password181"
+                    "locators_val": "//form[@id='u_0_2_DY']/div[2]/button",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login553"
                 },
                 {
                     "locators": "id",
-                    "locators_val": "passTGWEBCOMMA1",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password181"
+                    "locators_val": "u_0_5_QATGWEBCOMMA1",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login553"
                 },
                 {
                     "locators": "CSS selector",
-                    "locators_val": "#pass",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password181"
+                    "locators_val": "#u_0_5_QA",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login553"
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//div[2]/div/input",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password181"
+                    "locators_val": "//button",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login553"
                 },
                 {
                     "locators": "Tag",
-                    "locators_val": "input",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password181"
+                    "locators_val": "button",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login553"
                 },
                 {
                     "locators": "class",
-                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password181"
+                    "locators_val": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 280.078125,
+                    "suggest_name": "login553"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1105/143710.png",
             "element_type": "xpath"
         },
         {
@@ -443,9 +363,80 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.88.204/s/ele-imgs/1105/143710.png",
-            "element_type": "xpath",
-            "image_url": ""
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password181",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password181"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password181"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password181"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password181"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password181"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "input",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password181"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password181"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
         }
     ]
 }
