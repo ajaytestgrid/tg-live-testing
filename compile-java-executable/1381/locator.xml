@@ -6,12 +6,6 @@
   <locator name="ele_q2">
     <element type="id">q2TGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
-  <locator name="ele_q2">
-    <element type="id">q2TGWEBCOMMAIdTGWEBCOMMA0</element>
-  </locator>
-  <locator name="ele_q2">
-    <element type="id">q2TGWEBCOMMAIdTGWEBCOMMA0</element>
-  </locator>
   <locator name="ele_qq">
     <element type="id">qqTGWEBCOMMAIdTGWEBCOMMA0</element>
   </locator>
