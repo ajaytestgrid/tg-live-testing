@@ -25,16 +25,14 @@ public class login {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void login() {
 		tg.openBrowser();
-		tg.wait("ele_emailaddre921", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_emailaddre921", 1);
-		tg.wait("ele_emailaddre921", ComparisonType.IS_VISIBLE, 2);
-		tg.type("ele_emailaddre921", "test@gmail.com");
-		tg.wait("ele_login553", ComparisonType.IS_VISIBLE, 3);
-		tg.click("ele_login553", 1);
-		tg.wait("ele_password181", ComparisonType.IS_VISIBLE);
-		tg.click("ele_password181", 1);
-		tg.wait("ele_password181", ComparisonType.IS_VISIBLE);
-		tg.typeEncrypted("ele_password181", "COZRKJDzcWQ+sSXmPNXj3g==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		START_CUSTOM_SCRIPT;
+		
+		        MongoClientSettings settings = MongoClientSettings.builder()
+		                .applyConnectionString(new ConnectionString(uri))
+		                .serverApi(serverApi)
+		                .build();
+		
+		END_CUSTOM_SCRIPT;
 		tg.close();
 	}
 }
