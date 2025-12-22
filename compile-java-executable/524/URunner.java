@@ -30,18 +30,4 @@ public class URunner {
         tg.type("ele_EditText1766430431133", "123456789", true);
         tg.close();
     }
-
-    @Test(retryAnalyzer = RetryFailedTestCases.class)
-    public void testcopy() {
-        tg.openDevice();
-        tg.wait("ele_tileviewiconImageView1766430405322", ComparisonType.IS_VISIBLE);
-        tg.click("ele_tileviewiconImageView1766430405322", 1);
-        tg.wait("ele_FrameLayout1766430410503", ComparisonType.IS_VISIBLE);
-        tg.click("ele_FrameLayout1766430410503", 1);
-        tg.wait("ele_EditText1766430431133", ComparisonType.IS_VISIBLE);
-        tg.click("ele_EditText1766430431133", 1);
-        tg.wait("ele_EditText1766430431133", ComparisonType.IS_VISIBLE);
-        tg.type("ele_EditText1766430431133", "123456789", true);
-        tg.close();
-    }
 }
