@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_tileviewiconImageView1766430405322">
+    <element type="xpath">(//android.widget.ImageView[@resource-id='com.android.chrome:id/tile_view_icon'])[2]</element>
+    <element type="id">(//android.widget.ImageView[@resource-id='com.android.chrome:id/tile_view_icon'])[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.ImageView</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8698.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766430410503">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8699.png</element>
+  </locator>
+  <locator name="ele_EditText1766430431133">
+    <element type="xpath">//android.widget.EditText[@resource-id='m_login_password']</element>
+    <element type="id">//android.widget.EditText[@resource-id='m_login_password']</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8700.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432106046">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8701.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432111486">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432114120">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8703.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432117936">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432143496">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8705.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432152957">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432157182">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8707.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432161710">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8708.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432164004">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8709.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432166910">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432170441">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8711.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432171924">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8712.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432175005">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8713.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432177139">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432180058">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8715.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432182854">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432236581">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8717.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432240361">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8718.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432243452">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8719.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432248656">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8720.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432254921">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432267835">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8722.png</element>
+  </locator>
+  <locator name="ele_WebViewFrameLayout1766432270401">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8723.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432294134">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8724.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432295730">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8725.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432298060">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432300950">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8727.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432303041">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432305933">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8729.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432308103">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432313659">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/530/8731.png</element>
+  </locator>
+  <locator name="ele_FrameLayout1766432323342">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout</element>
+  </locator>
+</locators>
