@@ -1,0 +1,195 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_tileviewiconImageView1766430405322",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[@resource-id='com.android.chrome:id/tile_view_icon'])[2]",
+                    "locator_id": "3",
+                    "d_h": 78,
+                    "d_w": 78,
+                    "d_x": 393,
+                    "d_y": 870,
+                    "suggest_name": "tileviewiconImageView1766430405322"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "tileviewiconImageView1766430405322",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_h": "78",
+                    "d_w": "78",
+                    "d_x": "393",
+                    "d_y": "870",
+                    "element_area": 156,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.ImageView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/524/8689.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_tileviewiconImageView1766430405322",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[@resource-id='com.android.chrome:id/tile_view_icon'])[2]",
+                    "locator_id": "3",
+                    "d_h": 78,
+                    "d_w": 78,
+                    "d_x": 393,
+                    "d_y": 870,
+                    "suggest_name": "tileviewiconImageView1766430405322"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "tileviewiconImageView1766430405322",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_h": "78",
+                    "d_w": "78",
+                    "d_x": "393",
+                    "d_y": "870",
+                    "element_area": 156,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.ImageView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/524/8689.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FrameLayout1766430410503",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]",
+                    "locator_id": "3",
+                    "d_h": 2115,
+                    "d_w": 1080,
+                    "d_x": 0,
+                    "d_y": 81,
+                    "suggest_name": "FrameLayout1766430410503"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/524/8690.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_FrameLayout1766430410503",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]",
+                    "locator_id": "3",
+                    "d_h": 2115,
+                    "d_w": 1080,
+                    "d_x": 0,
+                    "d_y": 81,
+                    "suggest_name": "FrameLayout1766430410503"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/524/8690.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EditText1766430431133",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.EditText[@resource-id='m_login_password']",
+                    "locator_id": "3",
+                    "d_h": 63,
+                    "d_w": 774,
+                    "d_x": 99,
+                    "d_y": 720,
+                    "suggest_name": "EditText1766430431133"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EditText1766430431133",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "63",
+                    "d_w": "774",
+                    "d_x": "99",
+                    "d_y": "720",
+                    "element_area": 837,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/524/8691.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_EditText1766430431133",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.EditText[@resource-id='m_login_password']",
+                    "locator_id": "3",
+                    "d_h": 63,
+                    "d_w": 774,
+                    "d_x": 99,
+                    "d_y": 720,
+                    "suggest_name": "EditText1766430431133"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "EditText1766430431133",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "63",
+                    "d_w": "774",
+                    "d_x": "99",
+                    "d_y": "720",
+                    "element_area": 837,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[4]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[2]/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/524/8691.png",
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}
