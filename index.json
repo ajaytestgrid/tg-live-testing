@@ -8,7 +8,7 @@
         "app_id": "31",
         "version_name": "20251218",
         "version_description": "",
-        "cm_version_module": "1624,1625,1626,1627,1628,1629,1630,1631",
+        "cm_version_module": "1624,1625,1626,1627,1628,1629,1630,1631,1632",
         "platform": "3",
         "ai_modal_id": null,
         "script_type": "3",
@@ -1256,6 +1256,51 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "1631",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
+                }
+            ]
+        },
+        {
+            "version_module_id": "1632",
+            "version_id": "86",
+            "parent_id": "0",
+            "module_name": "ww",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": "2025-12-24 23:10:42",
+            "is_updated": "1",
+            "is_complie": "1",
+            "server_ids": "1",
+            "is_running": "1",
+            "is_delete": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "6166",
+                    "user_id": "1",
+                    "app_id": "31",
+                    "version_id": "86",
+                    "version_module_id": "1632",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "1632",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
