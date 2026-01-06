@@ -141,7 +141,7 @@
                         "tc_id": "1747",
                         "json_url": "https://dev-ajay-testgrid.tiiny.site/tg-api.json",
                         "json_keys": "testx2,testx4",
-                        "test_case": "[]",
+                        "test_case": "[{\"where\":\"\",\"rows\":[{\"key\":\"testx2\",\"operator\":\"=\",\"capability\":\"dev@gmail.com\",\"where\":\"\"}]}]",
                         "type": "1",
                         "api_url": null,
                         "api_keys": null,
