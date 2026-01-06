@@ -1,0 +1,266 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_Explorethethingsyoulove",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "div#mount_0_0_jx > div > div > div > div > div > div > div > div > div > div > div > div > div > divTGWEBCOMMACssSelectorTGWEBCOMMA3",
+                    "locator_id": "9",
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "CSS selector",
+                    "locators_val": "div#mount_0_0_jx > div > div > div > div > div > div > div > div > div > div > div > div > div > divTGWEBCOMMA3",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "Xpath",
+                    "locators_val": "//body/div[@id='mount_0_0_jx']/div/div/div/div/div/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "class",
+                    "locators_val": "x1ja2u2z x9f619 x78zum5 xdt5ytf x193iq5w x1l7klhg x1iyjqo2 xs83m0k x13zrc24 x1t1ogtf xr4gsrn xa83c8o x3oym20 x1i84rja x1is6hmk x12fhftt x19kjcj4 x10l6tqk x1u2x60b xsjzec5TGWEBCOMMA9",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "Tag",
+                    "locators_val": "divTGWEBCOMMA15",
+                    "suggest_name": "Explore the things you love."
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.204/s/ele-imgs/1103/159089.png",
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_Explorethethingsyoulove",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "div#mount_0_0_jx > div > div > div > div > div > div > div > div > div > div > div > div > div > divTGWEBCOMMACssSelectorTGWEBCOMMA3",
+                    "locator_id": "9",
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "CSS selector",
+                    "locators_val": "div#mount_0_0_jx > div > div > div > div > div > div > div > div > div > div > div > div > div > divTGWEBCOMMA3",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "Xpath",
+                    "locators_val": "//body/div[@id='mount_0_0_jx']/div/div/div/div/div/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "class",
+                    "locators_val": "x1ja2u2z x9f619 x78zum5 xdt5ytf x193iq5w x1l7klhg x1iyjqo2 xs83m0k x13zrc24 x1t1ogtf xr4gsrn xa83c8o x3oym20 x1i84rja x1is6hmk x12fhftt x19kjcj4 x10l6tqk x1u2x60b xsjzec5TGWEBCOMMA9",
+                    "suggest_name": "Explore the things you love."
+                },
+                {
+                    "d_h": 791,
+                    "d_w": 330,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "locators": "Tag",
+                    "locators_val": "divTGWEBCOMMA15",
+                    "suggest_name": "Explore the things you love."
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.204/s/ele-imgs/1103/159089.png",
+            "element_type": "css",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Facebookhelpsyouconnectandsharewiththepeop",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "div#content > div > div > div > div > h2TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182,
+                    "d_y": 274,
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "CSS selector",
+                    "locators_val": "div#content > div > div > div > div > h2TGWEBCOMMA0",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "Xpath",
+                    "locators_val": "//h2[contains(text(),'Facebook helps you connect and share with the peop')]",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "class",
+                    "locators_val": "_8esoTGWEBCOMMA1",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "Tag",
+                    "locators_val": "h2TGWEBCOMMA1",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.204/s/ele-imgs/1103/159090.png",
+            "element_type": "css"
+        },
+        {
+            "testcase_element": "ele_Facebookhelpsyouconnectandsharewiththepeop",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "Css",
+                    "locators_val": "div#content > div > div > div > div > h2TGWEBCOMMACssSelectorTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182,
+                    "d_y": 274,
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "CSS selector",
+                    "locators_val": "div#content > div > div > div > div > h2TGWEBCOMMA0",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "Xpath",
+                    "locators_val": "//h2[contains(text(),'Facebook helps you connect and share with the peop')]",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "Xpath",
+                    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "class",
+                    "locators_val": "_8esoTGWEBCOMMA1",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                },
+                {
+                    "d_h": 84,
+                    "d_w": 500,
+                    "d_x": 182.5,
+                    "d_y": 274.078125,
+                    "locators": "Tag",
+                    "locators_val": "h2TGWEBCOMMA1",
+                    "suggest_name": "Facebook helps you connect and share with the peop"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.204/s/ele-imgs/1103/159090.png",
+            "element_type": "css",
+            "image_url": ""
+        }
+    ]
+}

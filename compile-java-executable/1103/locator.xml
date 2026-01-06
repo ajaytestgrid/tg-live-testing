@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_Explorethethingsyoulove">
+    <element type="css">div#mount_0_0_jx &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; divTGWEBCOMMACssSelectorTGWEBCOMMA3</element>
+    <element type="css">div#mount_0_0_jx &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA3</element>
+    <element type="xpath">//body/div[@id='mount_0_0_jx']/div/div/div/div/div/div/div/div/div/div/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="class">x1ja2u2z x9f619 x78zum5 xdt5ytf x193iq5w x1l7klhg x1iyjqo2 xs83m0k x13zrc24 x1t1ogtf xr4gsrn xa83c8o x3oym20 x1i84rja x1is6hmk x12fhftt x19kjcj4 x10l6tqk x1u2x60b xsjzec5TGWEBCOMMA9</element>
+    <element type="tag">divTGWEBCOMMA15</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1103/159089.png</element>
+  </locator>
+  <locator name="ele_Facebookhelpsyouconnectandsharewiththepeop">
+    <element type="css">div#content &gt; div &gt; div &gt; div &gt; div &gt; h2TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">div#content &gt; div &gt; div &gt; div &gt; div &gt; h2TGWEBCOMMA0</element>
+    <element type="xpath">//h2[contains(text(),'Facebook helps you connect and share with the peop')]</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]</element>
+    <element type="class">_8esoTGWEBCOMMA1</element>
+    <element type="tag">h2TGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1103/159090.png</element>
+  </locator>
+</locators>
