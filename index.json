@@ -108,7 +108,7 @@
                         "user_id": "1",
                         "tc_id": "1746",
                         "json_url": "https://dev-ajay-testgrid.tiiny.site/tg-api.json",
-                        "json_keys": "testx1,testx2,testx3,testx4,testx5",
+                        "json_keys": "testx2,testx4,testx5",
                         "test_case": "[]",
                         "type": "1",
                         "api_url": "https://dev-ajay-testgrid.tiiny.site/tg-api.json",
