@@ -10,6 +10,7 @@
         "version_description": "",
         "cm_version_module": "1103",
         "platform": "3",
+        "ai_modal_id": null,
         "script_type": "3",
         "is_master": "1",
         "is_delete": "0",
@@ -54,15 +55,15 @@
             "cm_resource_pages": "",
             "cm_default_resource": "",
             "cm_test_function": "",
-            "cm_test_case": "1480",
+            "cm_test_case": "1480,1746",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": null,
+            "view_updated_date_time": "2026-01-06 18:30:38",
             "is_updated": "1",
-            "is_complie": "0",
-            "server_ids": null,
-            "is_running": "0",
+            "is_complie": "1",
+            "server_ids": "1",
+            "is_running": "1",
             "is_delete": "0",
             "abo_vm_test_case": [
                 {
@@ -84,6 +85,26 @@
                     "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/81/1103/testcases/login.java"
+                },
+                {
+                    "tc_id": "1746",
+                    "version_module_id": "1103",
+                    "tc_name": "TG01",
+                    "tc_description": "",
+                    "tc_website_url": "https://www.facebook.com",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "updated_at": "2026-01-06 22:27:42",
+                    "created_at": "2026-01-06 22:27:42",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/30/81/1103/testcases/tg01.java"
                 }
             ],
             "abo_version_proc": [],
@@ -114,6 +135,7 @@
                     "version_module_id": "1103",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
+                    "image_url": "",
                     "abo_version_maps": []
                 }
             ]
