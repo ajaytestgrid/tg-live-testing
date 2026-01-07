@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_facebook168">
+    <element type="xpath">//img[@alt='Facebook']</element>
+    <element type="css">img.fb_logo._8ilh.img</element>
+    <element type="css">div#content &gt; div &gt; div &gt; div &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">imgTGWEBCOMMA0</element>
+    <element type="class">fb_logo _8ilh imgTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.214/s/ele-imgs/368/5456.png</element>
+  </locator>
+</locators>

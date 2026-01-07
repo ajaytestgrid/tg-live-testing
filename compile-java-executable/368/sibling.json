@@ -1,0 +1,195 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_facebook168",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_8ice"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "img",
+                    "tg_attributes": {
+                        "class": "fb_logo _8ilh img",
+                        "src": "https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg",
+                        "alt": "Facebook"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img[@alt='Facebook']",
+                    "locator_id": "3",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='content']/div/div/div/div/div/img",
+                    "locator_id": "3",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "img.fb_logo._8ilh.img",
+                    "locator_id": "9",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#content > div > div > div > div > div > imgTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img",
+                    "locator_id": "3",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "imgTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "fb_logo _8ilh imgTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.214/s/ele-imgs/368/5456.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_facebook168",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_8ice"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "img",
+                    "tg_attributes": {
+                        "class": "fb_logo _8ilh img",
+                        "src": "https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg",
+                        "alt": "Facebook"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img[@alt='Facebook']",
+                    "locator_id": "3",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='content']/div/div/div/div/div/img",
+                    "locator_id": "3",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "img.fb_logo._8ilh.img",
+                    "locator_id": "9",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#content > div > div > div > div > div > imgTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img",
+                    "locator_id": "3",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "imgTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "fb_logo _8ilh imgTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 106,
+                    "d_w": 321,
+                    "d_x": 154.5,
+                    "d_y": 176,
+                    "suggest_name": "facebook168"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.88.214/s/ele-imgs/368/5456.png",
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}
