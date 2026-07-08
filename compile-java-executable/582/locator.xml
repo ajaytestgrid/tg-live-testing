@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_logintofac223">
+    <element type="xpath">//body/div[@id='mount_0_0_Fx']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div[1]/div[1]</element>
+    <element type="xpath">//div[@id='mount_0_0_Fx']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div</element>
+    <element type="css">div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j.xl56j7k</element>
+    <element type="css">div#mount_0_0_Fx &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div</element>
+    <element type="class">x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j xl56j7kTGWEBCOMMA15</element>
+    <element type="image">http://10.0.152.5/s/ele-imgs/582/51137.png</element>
+  </locator>
+</locators>
