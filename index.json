@@ -1,7 +1,7 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "391",
+    "version_id": 391,
     "user_id": 159,
     "abo_version": {
         "version_id": "391",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": "",
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "260",
@@ -97,7 +97,7 @@
                     "tc_id": "6848",
                     "version_module_id": "582",
                     "tc_name": "NewCheckTest",
-                    "tc_description": "Test Case from TestGrid: NewCheckTest",
+                    "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
                     "cm_step_list": "945",
@@ -107,8 +107,8 @@
                     "is_deleted": "0000-00-00 00:00:00",
                     "is_auto": "0",
                     "is_ai_generated": "0",
-                    "is_draft": "159",
-                    "updated_at": "2026-07-08 17:58:25",
+                    "is_draft": "0",
+                    "updated_at": "2026-07-08 18:06:01",
                     "created_at": "2026-07-08 17:58:25",
                     "qtest_skip_sync": "0",
                     "test_case_tags": [],

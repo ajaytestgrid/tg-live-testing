@@ -26,6 +26,7 @@ public class newchecktest {
 	public void newchecktest() {
 		tg.openBrowser();
 		tg.wait(1);
+		tg.wait("ele_logintofac223", ComparisonType.IS_VISIBLE, 1);
 		tg.close();
 	}
 }
