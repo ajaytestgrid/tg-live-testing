@@ -1,0 +1,194 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_resources600",
+            "tg_text": "Resources",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "type": "button",
+                        "aria-expanded": "false",
+                        "aria-controls": "nav-dropdown-11225b38c588",
+                        "class": "dropdown-label fig-15v99cn",
+                        "data-nav-dropdown-trigger": "true"
+                    },
+                    "tg_text": "Resources"
+                },
+                "next_sibling": {
+                    "tag": "svg",
+                    "tg_attributes": {
+                        "xmlns": "http://www.w3.org/2000/svg",
+                        "width": "24",
+                        "height": "24",
+                        "fill": "none",
+                        "viewBox": "0 0 24 24",
+                        "style": "transform:rotate(0)",
+                        "class": "fig-89pl2q"
+                    },
+                    "tg_text": null
+                },
+                "current_element_attrs": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "nav-highlight fig-1wty479"
+                    },
+                    "tg_text": "Resources"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//span[contains(text(),'Resources')]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 76,
+                    "d_x": 415,
+                    "d_y": 27,
+                    "suggest_name": "resources600"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='app']/div[2]/header/div/div/div/nav/ul/li[7]/div/button/span",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 76,
+                    "d_x": 415.390625,
+                    "d_y": 27.59375,
+                    "suggest_name": "resources600"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "li:nth-of-type(7) > div.fig-1k2ji4o > button.dropdown-label.fig-15v99cn > span.nav-highlight.fig-1wty479",
+                    "locator_id": "9",
+                    "d_h": 23,
+                    "d_w": 76,
+                    "d_x": 415.390625,
+                    "d_y": 27.59375,
+                    "suggest_name": "resources600"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#app > div:nth-of-type(2) > header > div > div > div > nav > ul > li:nth-of-type(7) > div > button > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 23,
+                    "d_w": 76,
+                    "d_x": 415.390625,
+                    "d_y": 27.59375,
+                    "suggest_name": "resources600"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[7]/div/button/span",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 76,
+                    "d_x": 415.390625,
+                    "d_y": 27.59375,
+                    "suggest_name": "resources600"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-highlight fig-1wty479TGWEBCOMMA44",
+                    "locator_id": "6",
+                    "d_h": 23,
+                    "d_w": 76,
+                    "d_x": 415.390625,
+                    "d_y": 27.59375,
+                    "suggest_name": "resources600"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.225/s/ele-imgs/704/1530.png"
+        },
+        {
+            "testcase_element": "ele_plugins601",
+            "tg_text": "Plugins",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://www.figma.com/community/plugins",
+                        "target": "_blank",
+                        "rel": "noreferrer",
+                        "class": "fig-hnvnz7"
+                    },
+                    "tg_text": "Plugins"
+                },
+                "current_element_attrs": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "nav-highlight"
+                    },
+                    "tg_text": "Plugins"
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//span[contains(text(),'Plugins')]",
+                    "locator_id": "3",
+                    "d_h": 31,
+                    "d_w": 79,
+                    "d_x": 467,
+                    "d_y": 160,
+                    "suggest_name": "plugins601"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//nav[@id='nav-dropdown-11225b38c588']/div/div/div/ul/li/a/span",
+                    "locator_id": "3",
+                    "d_h": 31,
+                    "d_w": 79,
+                    "d_x": 467,
+                    "d_y": 160.1875,
+                    "suggest_name": "plugins601"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.fig-1hcuvav > div > ul.fig-1m0mmhm > li.fig-av9obh > a.fig-hnvnz7 > span.nav-highlight",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 79,
+                    "d_x": 467,
+                    "d_y": 160.1875,
+                    "suggest_name": "plugins601"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "nav#nav-dropdown-11225b38c588 > div > div > div > ul > li > a > spanTGWEBCOMMA14",
+                    "locator_id": "9",
+                    "d_h": 31,
+                    "d_w": 79,
+                    "d_x": 467,
+                    "d_y": 160.1875,
+                    "suggest_name": "plugins601"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[8]/div/div/div/nav/div/div/div/ul/li/a/span",
+                    "locator_id": "3",
+                    "d_h": 31,
+                    "d_w": 79,
+                    "d_x": 467,
+                    "d_y": 160.1875,
+                    "suggest_name": "plugins601"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "nav-highlightTGWEBCOMMA46",
+                    "locator_id": "6",
+                    "d_h": 31,
+                    "d_w": 79,
+                    "d_x": 467,
+                    "d_y": 160.1875,
+                    "suggest_name": "plugins601"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.225/s/ele-imgs/704/1531.png"
+        }
+    ]
+}

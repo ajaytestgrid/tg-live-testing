@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_resources600">
+    <element type="xpath">//span[contains(text(),'Resources')]</element>
+    <element type="xpath">//div[@id='app']/div[2]/header/div/div/div/nav/ul/li[7]/div/button/span</element>
+    <element type="css">li:nth-of-type(7) &gt; div.fig-1k2ji4o &gt; button.dropdown-label.fig-15v99cn &gt; span.nav-highlight.fig-1wty479</element>
+    <element type="css">div#app &gt; div:nth-of-type(2) &gt; header &gt; div &gt; div &gt; div &gt; nav &gt; ul &gt; li:nth-of-type(7) &gt; div &gt; button &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//li[7]/div/button/span</element>
+    <element type="class">nav-highlight fig-1wty479TGWEBCOMMA44</element>
+    <element type="image">http://192.168.88.225/s/ele-imgs/704/1530.png</element>
+  </locator>
+  <locator name="ele_plugins601">
+    <element type="xpath">//span[contains(text(),'Plugins')]</element>
+    <element type="xpath">//nav[@id='nav-dropdown-11225b38c588']/div/div/div/ul/li/a/span</element>
+    <element type="css">div.fig-1hcuvav &gt; div &gt; ul.fig-1m0mmhm &gt; li.fig-av9obh &gt; a.fig-hnvnz7 &gt; span.nav-highlight</element>
+    <element type="css">nav#nav-dropdown-11225b38c588 &gt; div &gt; div &gt; div &gt; ul &gt; li &gt; a &gt; spanTGWEBCOMMA14</element>
+    <element type="xpath">//li[8]/div/div/div/nav/div/div/div/ul/li/a/span</element>
+    <element type="class">nav-highlightTGWEBCOMMA46</element>
+    <element type="image">http://192.168.88.225/s/ele-imgs/704/1531.png</element>
+  </locator>
+</locators>

@@ -1,0 +1,44 @@
+import java.lang.*;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class tc002 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc002() {
+		tg.openBrowser();
+				tg.wait(1);
+				tg.wait("ele_signin765", ComparisonType.IS_VISIBLE);
+				tg.click("ele_signin765", 1);
+				tg.wait("ele_email863", ComparisonType.IS_VISIBLE);
+				tg.click("ele_email863", 1);
+				tg.wait("ele_email863", ComparisonType.IS_VISIBLE);
+				tg.type("ele_email863", var_ra_TVRA01);
+				tg.wait(1);
+				tg.type("ele_email863", var_ra_TVRA02);
+				tg.wait(1);
+				tg.type("ele_email863", var_ra_TVRA03);
+				tg.wait(1);
+				tg.type("ele_RSVN001", var_ra_TVRA01);
+		tg.close();
+	}
+}
